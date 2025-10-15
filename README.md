@@ -10,8 +10,8 @@ Describe the new behavior as it is now after the code changes in one to three sh
 
 ## Key Files
 
-1. NameOfFile.js - shorthand for what is new or changed in this file
-2. NameOfFile.js - shorthand for what is new or changed in this file
+1. `NameOfFile.js` - shorthand for what is new or changed in this file
+2. `NameOfFile.js` - shorthand for what is new or changed in this file
 
 ## To Test
 
